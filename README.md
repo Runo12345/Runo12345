@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a systems thinker, analyst, and project manager who loves turning messy ideas into structured, executable plans.<br><br>I sit at the intersection of analysis, planning, and delivery thereby breaking down complex problems, designing clear workflows, and making sure things actually get done (on time, on budget, and without chaos).<br><br>I care less about hype and more about process, logic, and outcomes.</p>
+<p align="left">I’m a systems thinker, analyst, and project manager who loves turning messy ideas into structured, executable plans.<br><br>I sit at the intersection of analysis, planning, and delivery thereby breaking down complex problems, designing clear workflows, and making sure things actually get done (on time, on budget, and without chaos).</p>
 
 ###
 
